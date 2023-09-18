@@ -2,6 +2,7 @@
 
 
 https://ivarvani.github.io/leaflet-challenge/Leaflet-Part-1/index
+https://ivarvani.github.io/leaflet-challenge/Leaflet-Part-2/index
 ### Background
 
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, 
@@ -23,10 +24,11 @@ other government organizations (and hopefully secure more funding) on issues fac
 The particular project is  broken into two parts:
 
 Part 1: Create the Earthquake Visualization
+[**Click Here**]( https://ivarvani.github.io/leaflet-challenge/Leaflet-Part-1/index) to explore the web page . <br/>
 
 Part 2: Gather and Plot More Data (Optional with no extra points earning)
+[**Click Here**]( https://ivarvani.github.io/leaflet-challenge/Leaflet-Part-2/index) to explore the web page . <br/>
 
-[**Click Here**]( https://ivarvani.github.io/leaflet-challenge/) to explore the web page . <br/>
 ### Leafelt-part-1: Create the Earthquake Visualization
 
 1.  Got the dataset. To do so, following  steps has been done :
