@@ -1,7 +1,7 @@
 # leaflet-challenge
 
 
-https://ivarvani.github.io/leaflet-challenge/
+https://ivarvani.github.io/leaflet-challenge/Leaflet-Part-1/index.html
 ### Background
 
 The United States Geological Survey, or USGS for short, is responsible for providing scientific data about natural hazards, 
