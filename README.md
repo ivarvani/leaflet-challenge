@@ -56,7 +56,7 @@ Created a legend that will provide context for your map data.
 <img width="1076" alt="image" src="https://github.com/ivarvani/leaflet-challenge/blob/main/Output/Leaflet_part_1_output.png">
 
 
-### Leafelt-part-1: Gather and Plot More Data 
+### Leafelt-part-2: Gather and Plot More Data 
 
 Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity.
 Have pulled  the  dataset and visualized it alongside the original data. 
