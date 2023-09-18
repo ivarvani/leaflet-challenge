@@ -53,7 +53,7 @@ Included popups that provide additional information about the earthquake when it
 
 Created a legend that will provide context for your map data.
 
-<img width="1076" alt="image" src="https://user-images.githubusercontent.com/116701851/229043260-293c2e42-302d-4020-b009-0e9b0c176ab0.png">
+<img width="1076" alt="image" src="https://github.com/ivarvani/leaflet-challenge/blob/main/Output/Leaflet_part_1_output.png">
 
 
 ### Leafelt-part-1: Gather and Plot More Data 
